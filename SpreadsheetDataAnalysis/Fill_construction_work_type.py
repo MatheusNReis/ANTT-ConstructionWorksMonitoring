@@ -1,4 +1,4 @@
-# Fill the construction work type column according to description
+# Fill the construction work type column according to detailed description and observation fields in spreadsheet
 
 #import pdb # Import the pdb module
 #pdb.set_trace()
