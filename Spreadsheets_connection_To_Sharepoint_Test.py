@@ -1,3 +1,6 @@
+# Test the connection of spreadsheets stored in Sharepoint for proccesses automation
+# Testa conexão de planilhas armazenadas em Sharepoint para automação de processos
+
 import pandas as pd
 from office365.sharepoint.client_context import ClientContext
 from office365.runtime.auth.client_credential import ClientCredential
